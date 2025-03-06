@@ -1,6 +1,13 @@
 from fastapi import FastAPI
 import joblib
 import numpy as np
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/")
+def read_root():
+    return {"message": "Hello, your API is working!"}
 
 # Load the trained AI model and encoders
 model = joblib.load("farm_ai_model_updated.pkl")
