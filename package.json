@@ -1,0 +1,19 @@
+{
+  "name": "WaterLevelApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "0.78.0",
+    "react-native-paper": "^5.13.1",
+    "react-native-sms": "^1.12.0",
+    "react-native-vector-icons": "^10.2.0"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^15.1.3",
+    "@react-native/metro-config": "^0.78.0",
+    "metro-config": "^0.81.3"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364486501042",
+    "project_id": "water-level-app-57cc2",
+    "storage_bucket": "water-level-app-57cc2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364486501042:android:faa97627f7986734209fab",
+        "android_client_info": {
+          "package_name": "com.dapaCorp.WaterLevel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCqUB-GQjzWBYoJaadVlAtVELs_AozpTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

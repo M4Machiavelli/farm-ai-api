@@ -1,0 +1,10 @@
+humidity,temperature,water_level,soil_moisture,acidity,crop_type,recommendation
+65,25,50,30,6.5,Wheat,Irrigate
+68,27,51,32,6.3,Wheat,Irrigate
+70,30,40,45,6.2,Rice,Fertilize
+72,28,42,44,6.1,Rice,Fertilize
+80,28,55,35,7.0,Corn,No Action
+82,29,57,36,6.9,Corn,No Action
+75,26,60,50,5.8,Soybean,Adjust pH
+77,27,55,48,5.9,Soybean,Adjust pH
+
